@@ -35,17 +35,12 @@ EDA_Project/
 - Handling missing values
 - Descriptive statistics
 - Data visualization
-- Correlation analysis
-- Pattern and trend identification
 
----
 
 ## 📈 Visualizations Included
 
 - Distribution plots
 - Bar charts
-- Heatmaps (correlation)
-- Comparisons between variables
 
 ---
 
