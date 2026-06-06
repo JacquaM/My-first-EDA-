@@ -24,7 +24,6 @@ EDA_Project/
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
